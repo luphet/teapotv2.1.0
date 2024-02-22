@@ -1,0 +1,25 @@
+{
+  "name": "teapot2.1.0",
+  "version": "1.0.0",
+  "description": "u csn not make the best tea without best teapot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luphet/teapotv2.1.0.git"
+  },
+  "keywords": [
+    "tea"
+  ],
+  "author": "luphet <dionleonidasr@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luphet/teapotv2.1.0/issues"
+  },
+  "homepage": "https://github.com/luphet/teapotv2.1.0#readme",
+  "dependencies": {
+    "teapot2.1.0": "^1.0.0"
+  }
+}
